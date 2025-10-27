@@ -265,7 +265,7 @@ Apprendre à gérer les relations entre entités (OneToMany, ManyToMany, etc.)
 
 🧪 Exemple d’affichage attendu
 <img width="2511" height="1185" alt="Screenshot 2025-10-27 120313" src="https://github.com/user-attachments/assets/15039308-a14e-4077-9e80-9e1f721e8d11" />
-<img width="352" height="157" alt="Screenshot 2025-10-27 120742" src="https://github.com/user-attachments/assets/0fbe8806-5137-420b-b6f3-7741affbec1e" />
+
 
 
 
@@ -457,3 +457,4 @@ Ghali ELASRI- ghaliel
 
 📞 Support
 Pour toute question ou problème, veuillez ouvrir une issue sur GitHub.
+
